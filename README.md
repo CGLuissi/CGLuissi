@@ -10,5 +10,6 @@
   - [Network Security Groups and Inspecting Network Protocols](https://github.com/CGLuissi/azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CGLuissi/configure-ad)
   - [Building Intuition for DNS](https://github.com/CGLuissi/Building-Intuition-for-DNS)
+  - [Network File Shares and Permissions](https://github.com/CGLuissi/Network-File-Shares-and-Permissions)
 
 <h2>🤳Connect with me:</h2>
