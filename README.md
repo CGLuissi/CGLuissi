@@ -7,7 +7,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/CGLuissi/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/CGLuissi/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CGLuissi/configure-ad)
   - [Network Security Groups and Inspecting Network Protocols](https://github.com/CGLuissi/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CGLuissi/configure-ad)
+  - [Building Intuition for DNS](https://github.com/CGLuissi/Building-Intuition-for-DNS)
 
 <h2>🤳Connect with me:</h2>
