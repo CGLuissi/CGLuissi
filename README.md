@@ -1,6 +1,6 @@
-<h1>Hi, I'm Chris, an <a href="[https://linkedin.com/in/CGLuissi](https://www.linkedin.com/in/christopher-luissi-031035342/)">IT Professional</a>☺</h1>
+<h1>Hi, I'm Chris, an [IT Professional](www.linkedin.com/in/christopher-luissi-031035342)
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/CGLuissi/osticket-prereqs)
